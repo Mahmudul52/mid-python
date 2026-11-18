@@ -1,2 +1,0 @@
-# mid-python
-test
